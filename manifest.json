@@ -1,0 +1,10 @@
+{
+  "id": "vault-llm-export",
+  "name": "Vault LLM Export",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Combines all markdown files in the vault into a single file formatted for LLM context.",
+  "author": "Chris Boissonnault",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
